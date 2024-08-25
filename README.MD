@@ -93,10 +93,6 @@ The API uses the following database schema for products:
 
 ![DBeaver Example](images/dbeaver.png)
 
-## Gopher Animation
-
-![Gopher Animation](https://raw.githubusercontent.com/scraly/gophers/main/animation/gopher-typing.gif)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
